@@ -1,6 +1,6 @@
 # blog_application
 
-A new Flutter project.
+A simple blog post application written in flutter
 
 ## Getting Started
 
