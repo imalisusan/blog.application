@@ -62,15 +62,15 @@ flutter:
   fonts:
      - family: Montserrat
        fonts:
-         - asset: fonts/Montserrat-Bold.ttf
-         - asset: fonts/Montserrat-Light.ttf
-         - asset: fonts/Montserrat-Medium.ttf
-         - asset: fonts/Montserrat-Regular.ttf
+         - asset: assets/fonts/Montserrat-Bold.ttf
+         - asset: assets/fonts/Montserrat-Light.ttf
+         - asset: assets/fonts/Montserrat-Medium.ttf
+         - asset: assets/fonts/Montserrat-Regular.ttf
            
      - family: Lato
        fonts:
-         - asset: fonts/Lato-Bold.ttf
-         - asset: fonts/Lato-Light.ttf
-         - asset: fonts/Lato-Regular.ttf
+         - asset: assets/fonts/Lato-Bold.ttf
+         - asset: assets/fonts/Lato-Light.ttf
+         - asset: assets/fonts/Lato-Regular.ttf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
