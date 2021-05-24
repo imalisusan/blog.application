@@ -68,6 +68,7 @@ class _CreateBlogState extends State<CreateBlog> {
                 children: [
                   TextField(
                     decoration: InputDecoration(hintText: "Author Name"),
+                    style: TextStyle(fontFamily: 'Montserrat'),
                     onChanged: (val) {
                       authorName = val;
                     },
@@ -75,6 +76,7 @@ class _CreateBlogState extends State<CreateBlog> {
 
                   TextField(
                     decoration: InputDecoration(hintText: "Title"),
+                    style: TextStyle(fontFamily: 'Montserrat'),
                     onChanged: (val) {
                       title = val;
                     },
@@ -82,6 +84,7 @@ class _CreateBlogState extends State<CreateBlog> {
 
                   TextField(
                     decoration: InputDecoration(hintText: "Description"),
+                    style: TextStyle(fontFamily: 'Montserrat'),
                     onChanged: (val) {
                       description = val;
                     },
